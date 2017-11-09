@@ -1,0 +1,173 @@
+//Excel To Json
+//by Jay
+[
+
+  {
+    "Name": "IconItem_",
+    "Path": "Assets/AssetBundle/base_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "IconHead_",
+    "Path": "Assets/AssetBundle/base_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "IconFrame_",
+    "Path": "Assets/AssetBundle/base_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "IconSkill_",
+    "Path": "Assets/AssetBundle/base_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "IconTotem_",
+    "Path": "Assets/AssetBundle/base_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "CardL_",
+    "Path": "Assets/AssetBundle/card_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CardM_",
+    "Path": "Assets/AssetBundle/card_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CardS_",
+    "Path": "Assets/AssetBundle/maincard_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CharacterImage_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "CharacterBar_",
+    "Path": "Assets/AssetBundle/maincard_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CharacterHeadM_",
+    "Path": "Assets/AssetBundle/maincard_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CharacterHeadL_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "MasterPreBattle_",
+    "Path": "Assets/AssetBundle/prebattle_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "Master_",
+    "Path": "Assets/AssetBundle/card_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "Tip_",
+    "Path": "Assets/AssetBundle/tips_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CardBattle_",
+    "Path": "Assets/AssetBundle/card_000",
+    "AndroidCompressed": "ETC2_RGB4_PUNCHTHROUGH_ALPHA"
+
+  },
+
+  {
+    "Name": "CardName_",
+    "Path": "Assets/AssetBundle/card_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "CharacterStand_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": "ETC2_RGBA8"
+
+  },
+
+  {
+    "Name": "BGM_",
+    "Path": "Assets/AssetBundle/bgm_000",
+    "AndroidCompressed": ""
+
+  },
+
+  {
+    "Name": "SoundAtk_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": ""
+
+  },
+
+  {
+    "Name": "VoiceAtk_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": ""
+
+  },
+
+  {
+    "Name": "VoiceDie_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": ""
+
+  },
+
+  {
+    "Name": "VoiceIdle_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": ""
+
+  },
+
+  {
+    "Name": "VoiceSkill_",
+    "Path": "Assets/AssetBundle/character_000",
+    "AndroidCompressed": ""
+
+  }
+
+]
